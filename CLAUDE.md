@@ -54,6 +54,7 @@ Available in .claude/agents/:
 - /reviewer - Code review across all repos
 - /debugger - Issue investigation
 - /tester - Test-driven development
+- /prompt-engineer - Optimize LLM prompts for content quality (auto-triggered on prompt changes)
 
 ## Development Workflow
 
